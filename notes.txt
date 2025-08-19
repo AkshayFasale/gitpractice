@@ -1,1 +1,3 @@
+
+# this is notess
 # practice for git command and learning the workflow
